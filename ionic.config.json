@@ -1,5 +1,7 @@
 {
   "name": "dSngreIonic",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
